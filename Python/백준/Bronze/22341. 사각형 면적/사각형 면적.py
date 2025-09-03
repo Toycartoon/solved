@@ -9,9 +9,9 @@ for i in range(c):
     if x >= a or y >= b:
         continue
 
-    if a * y >= x * b:
-        b = y
-    else:
+    if x * b >= a * y:
         a = x
+    else:
+        b = y
 
 print(a * b)
