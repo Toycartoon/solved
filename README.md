@@ -1,5 +1,5 @@
 # solved
-![initial]("https://github.com/user-attachments/assets/ae8c1198-1526-4b17-ab3d-c98ba7081108")
+<img width="128" height="128" alt="Image" src="https://github.com/user-attachments/assets/223757c9-e752-43c3-986c-69886b2dd8ab" />
 제가 알고리즘 프로그래밍 사이트에서 푼 문제들의 풀이가 올라옵니다.
 
 ### ⚠️ toycartoon 및 toycppartoon은 해당 레지스트리에 있는 코드를 복사하여 치팅/언레 관련 문제 발생 시, 관련한 책임을 지지 않습니다.
