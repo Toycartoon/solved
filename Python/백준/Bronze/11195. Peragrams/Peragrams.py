@@ -10,7 +10,4 @@ for i in w:
         if i % 2 == 1:
             o += 1
 
-if len(s) % 2 == 0 and len(s) != o and o % 2 != 0:
-    print(o)
-else:
-    print(max(0, o-1))
+print(max(0, o-1))
