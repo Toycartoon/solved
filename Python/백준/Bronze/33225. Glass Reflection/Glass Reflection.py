@@ -1,0 +1,1 @@
+s=input();[print(s[i],end="")if s[i]==s[i+1]else""for i in range(len(s)-1)]
